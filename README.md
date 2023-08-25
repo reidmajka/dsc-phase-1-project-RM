@@ -23,6 +23,10 @@ Data was cleaned to yield the best grouping of the data by the following:
 - `Model`, or the products provided by the above `Make` companies
 - `Location` to determine groupings of crashes throughout the United States
 
+the data was saved as follows:
+- Location: given the long run-time of location data, a separate file was saved under the data folder as `test_geodata2.csv`
+- the rest of the data was saved as `data_cleaned.csv`
+
 
 ## Results
 
